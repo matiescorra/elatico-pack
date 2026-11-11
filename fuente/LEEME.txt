@@ -1,0 +1,4 @@
+Pack de recursos de El Ático (servidor de Minecraft de El Ático, San Luis).
+- La moneda ATIPESO reemplaza al símbolo ₳ en el chat, carteles y menús.
+- Ítem opcional "elatico:atipeso" (item_model) para monedas físicas.
+El server lo manda solo; no hace falta instalar nada.

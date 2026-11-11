@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "elatico:font/atipeso.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\u20b3"
+      ]
+    }
+  ]
+}

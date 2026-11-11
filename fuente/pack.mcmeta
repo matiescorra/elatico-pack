@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "description": "§6§lEl Ático §7— moneda y detalles del server",
+    "pack_format": 88,
+    "supported_formats": [
+      46,
+      99
+    ],
+    "min_format": 46,
+    "max_format": 99
+  }
+}
