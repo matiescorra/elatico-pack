@@ -1,0 +1,146 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        "\ue2f0": 25,
+        "\ue2f1": -49
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "elatico:font/razas/marco.png",
+      "height": 48,
+      "ascent": 7,
+      "chars": [
+        "\ue200"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/written_book.png",
+      "height": 32,
+      "ascent": -1,
+      "chars": [
+        "\ue20f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/iron_sword.png",
+      "height": 32,
+      "ascent": -1,
+      "chars": [
+        "\ue210"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/iron_pickaxe.png",
+      "height": 32,
+      "ascent": -1,
+      "chars": [
+        "\ue211"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/bow.png",
+      "height": 32,
+      "ascent": -1,
+      "chars": [
+        "\ue212"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/totem_of_undying.png",
+      "height": 32,
+      "ascent": -1,
+      "chars": [
+        "\ue213"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/iron_axe.png",
+      "height": 32,
+      "ascent": -1,
+      "chars": [
+        "\ue214"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/trident.png",
+      "height": 32,
+      "ascent": -1,
+      "chars": [
+        "\ue215"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/clock_00.png",
+      "height": 32,
+      "ascent": -1,
+      "chars": [
+        "\ue216"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/fire_charge.png",
+      "height": 32,
+      "ascent": -1,
+      "chars": [
+        "\ue217"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/pink_petals.png",
+      "height": 32,
+      "ascent": -1,
+      "chars": [
+        "\ue218"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/ender_pearl.png",
+      "height": 32,
+      "ascent": -1,
+      "chars": [
+        "\ue219"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/bone.png",
+      "height": 32,
+      "ascent": -1,
+      "chars": [
+        "\ue21a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/mace.png",
+      "height": 32,
+      "ascent": -1,
+      "chars": [
+        "\ue21b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/golden_apple.png",
+      "height": 32,
+      "ascent": -1,
+      "chars": [
+        "\ue21c"
+      ]
+    }
+  ]
+}

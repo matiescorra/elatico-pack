@@ -2,3 +2,8 @@ Pack de recursos de El Ático (servidor de Minecraft de El Ático, San Luis).
 - La moneda ATIPESO reemplaza al símbolo ₳ en el chat, carteles y menús.
 - Ítem opcional "elatico:atipeso" (item_model) para monedas físicas.
 El server lo manda solo; no hace falta instalar nada.
+
+v2:
+- Ilustraciones del "Libro de las Razas" (fuente elatico:razas: marco propio + íconos de ítems).
+- Aldeanos más humanos: sin la nariz gigante, con barba y pelo castaño (villager.png propio);
+  las ropas por bioma y oficio vuelven al diseño vanilla para que todo encaje en el modelo normal.
