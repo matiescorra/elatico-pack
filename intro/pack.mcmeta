@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "description": "§6§lAVE ÁTICO §7— los condenados a jugar te saludan",
+    "pack_format": 88,
+    "supported_formats": [
+      46,
+      99
+    ],
+    "min_format": 46,
+    "max_format": 99
+  }
+}
