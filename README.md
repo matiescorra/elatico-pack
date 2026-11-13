@@ -5,6 +5,7 @@ Pack de recursos del servidor de Minecraft de **El Ático** (San Luis). El serve
 ## Qué trae
 - **Moneda ATIPESO**: el símbolo ₳ se reemplaza por la moneda de Atiquín en el chat, los carteles de tienda, el tablón y `/dinero`. Quien rechace el pack sigue viendo ₳.
 - **Ítem `elatico:atipeso`**: modelo para monedas físicas (premios, eventos).
+- **Cosméticos de raza** (v4): orejas, barba, cuernos, alas, capucha, cola… en `elatico:cosmetico/<raza>_<cabeza|cuerpo>`. Se generan con `herramientas/cosmeticos.py` (vista previa: `vista_cosmeticos.py`).
 
 ## Estructura
 | Carpeta | Qué hay |
